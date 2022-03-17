@@ -1,5 +1,8 @@
 ## **Hi there _\<coders/>!_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Mayank Dashore.<br>Welcome to my repository.**
 ---
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="370">
+
+---
 
 ## **ASCII ART :-**
 ```python 
@@ -15,9 +18,6 @@ print("
 ")
 
 ```
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="370">
-
-
 ---
 ## **About this readme.md file :-**
 **myk-exe/myk-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

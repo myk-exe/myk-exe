@@ -75,6 +75,9 @@ Here are some ideas to get you started:
 
 
 ---
+<h3 align="center" >
+    Number of visitors on this repository👇🏻
+</h3>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/myk-exe/count.svg"/>
 </p>

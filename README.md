@@ -72,3 +72,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myk-exe&theme=nightowl)](https://git.io/streak-stats)
 
 </div>
+
+
+---
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/myk-exe/count.svg"/>
+</p>
+  

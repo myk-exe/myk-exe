@@ -1,6 +1,6 @@
 <div welcome-text align="center">
 
-## **Hi there _\<coders/>!_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Mayank Dashore.<br>Welcome to my repository.**
+## **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br> I am Mayank Dashore.<br>Welcome to my repository.**
 
 </div>
 

@@ -30,8 +30,7 @@ print("
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on github.
-- 🌱 I’m currently learning java.
-- 👯 I’m looking to collaborate on devlopers-day.
+- 🌱 I’m currently learning about technologies that intrests me.
 - 🤔 I’m looking for help with my cloud skills.
 - 💬 Ask me about chess.
 - 📫 How to reach me: email :- dashore.mayank@gmail.com
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 ## **My Tags for technologies :-**
-- `C`
+- `C` `C++`
 - `Python` 
 -  `SQL` 
 -  `HTML` , `CSS` , `Javascript` 

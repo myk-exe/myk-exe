@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - `C` `C++`
 - `Python` 
 -  `SQL` 
+-  `Power BI`
 -  `HTML` , `CSS` , `Javascript` 
 -  `GCP` 
 
